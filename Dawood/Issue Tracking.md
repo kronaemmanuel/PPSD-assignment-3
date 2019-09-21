@@ -1,2 +1,2 @@
 # Issue Tracking System
-An __issue tracking system__ (also __incident ticket system__ or __ITS__) is a computer software package that manages and manipulates lists of issues.
+An __issue tracking system__ (also __incident ticket system__ or __ITS__) is a computer software package that manages and manipulates lists of [Issue](https://en.wikipedia.org/wiki/Software_project_management#Issue). These systems are generally used when more than one person are working on a same project. But it can also be used by individuals for thier [time mangemnet](https://en.wikipedia.org/wiki/Time_management) or [personal productivity](https://en.wikipedia.org/wiki/Productivity_software) 
