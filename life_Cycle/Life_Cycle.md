@@ -39,3 +39,6 @@ Life cycle of ticket stars by agent. It is nearly same like other ticketing syst
 ## Submission of Issues
 Agents submit issues by _E-mail_, _Help center_ or _Widget_. Issue is submitted with some attachments like _Screen Shots_.
 
+## Team Assignment
+The issue is notified to Developer. Developer first changes the status of issue to __In Progress__. Then it is assign to one or more Developers.
+
