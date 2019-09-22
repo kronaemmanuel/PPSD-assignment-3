@@ -55,3 +55,6 @@ Life cycle of ticket stars by agent. It is nearly same like other ticketing syst
 ## Submission of Issues
 Agents submit issues by following simple steps : Selecting appropriate ticket type, Department of ticket, With details of bug.
 
+## Team Assignment
+The issue is notified to Developer. Developer first changes the status of issue to __In Progress__. Single Deneloper starts working on bug. But team of Developer assign it to one or more Developers.
+
