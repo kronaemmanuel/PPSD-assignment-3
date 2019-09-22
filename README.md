@@ -46,7 +46,18 @@ Ticketing management systems have the following disadvantages:
 
 Different TMS available on the market are:
 
-_This section is under construction_
+- Freshdesk
+- LiveAgent
+- JIRA Service Desk
+- Zendesk
+- Github Issues
+- Samanage
+- AzureDesk
+- Salesforce Essentials
+- Front
+- Nectar Desk
+- TeamSuppport
+- Kayako Help Desk
 
 ### TMS(s) recommended by our team
 
@@ -58,4 +69,11 @@ The three TMS recommended by our team are:
 
 ### Lifecycles of the best TMS(s)
 
-_This section is under construction_
+Mostly Life Cycle of TMS's have same steps and it keep changes in these steps. According to our research on different TMS's showed Life Cycle of the best TMS should have these following steps :
+
+- Submission of Issues
+- Agent and Team Assignment
+- Transferring Departments
+- State and Status
+- SLA and Due dates
+- Ticket Editing
