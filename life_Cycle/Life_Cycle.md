@@ -42,3 +42,5 @@ Agents submit issues by _E-mail_, _Help center_ or _Widget_. Issue is submitted 
 ## Team Assignment
 The issue is notified to Developer. Developer first changes the status of issue to __In Progress__. Then it is assign to one or more Developers.
 
+## Status Updates
+Ticket status keep changing during it lifetime like : first _In Progress_, _In Progress_ to In _Testing Phase_ and atlast to _Done_.
