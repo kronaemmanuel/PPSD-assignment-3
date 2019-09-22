@@ -1,4 +1,4 @@
-# CONTRIBUTING
+# Contributing
 
 If you are a contributor on this assignment then this file will help you get familiar with your tasks and the workflow you can follow to contribute to the repository
 
@@ -7,7 +7,7 @@ If you are a contributor on this assignment then this file will help you get fam
 1. Abdullah Saleem:
    - Write advantages and disadvantages of TMS
    - Write names of 10 different TMS
-2. Dawood Ashar:
+2. Dawood Asghar:
    - Define issue tracking / ticketing management
 3. Tayyab Asghar:
    - Draw the lifecycle of the three best TMS
