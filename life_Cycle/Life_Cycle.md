@@ -47,3 +47,8 @@ Ticket status keep changing during it lifetime like : first _Open _ to _In Progr
 
 ## SLA
 SLA Plans or Service Level Agreements are like timers and they can be created for whatever we want. They help you meet contractual agreements and they are used for tool for insight. It helps you manage what's prioritized in our queue.
+
+<!--kayako-->
+# kayako Issues
+Life cycle of ticket stars by agent. It is nearly same like other ticketing systems.
+
