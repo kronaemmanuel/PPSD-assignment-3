@@ -19,3 +19,6 @@ When enabled, alerts and details are sent out to assignee or team members.
 ## Transferring Departments
 It can also assign outside of department taht is called transfer of department. Department setting determines if a ticket can be assigned to agents outside the current department.
 
+## State and Status
+During it's lifecycle, a ticket can either be in open or closed state . Administratively-defined statuses can be used to further defined internal state of a ticket.
+
