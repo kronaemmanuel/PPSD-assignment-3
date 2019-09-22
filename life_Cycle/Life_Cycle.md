@@ -43,4 +43,7 @@ Agents submit issues by _E-mail_, _Help center_ or _Widget_. Issue is submitted 
 The issue is notified to Developer. Developer first changes the status of issue to __In Progress__. Then it is assign to one or more Developers.
 
 ## Status Updates
-Ticket status keep changing during it lifetime like : first _In Progress_, _In Progress_ to In _Testing Phase_ and atlast to _Done_.
+Ticket status keep changing during it lifetime like : first _Open _ to _In Progress_, _In Progress_ to _In Testing Phase_ and atlast to _Done_.
+
+## SLA
+SLA Plans or Service Level Agreements are like timers and they can be created for whatever we want. They help you meet contractual agreements and they are used for tool for insight. It helps you manage what's prioritized in our queue.
