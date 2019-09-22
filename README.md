@@ -15,31 +15,46 @@ The assignment description is as follows:
 - Dawood Asghar (2018-CS-08)
 - Tayyab Asghar (2018-CS-11)
 - Krona Emmanuel (2018-CS-28)
-  _If you are a contributor, read the CONTRIBUTING.md file to see your tasks_
+
+_If you are a contributor, read the CONTRIBUTING.md file to see your tasks_
 
 ## Summary:
 
-_This section is under construction_
+Ticketing Management System is an essential system for a modern business which wants to modernize its complaint workflow. It saves a lot of time and provides an easy way to log complaints, solve them and check analytics on the process so it can be optimized. For a small business, the three best TMS available on the market are Github Issue Tracking System, Jira Service desk, and Kayako Help Desk Software. Jira and Kayako are both premium solutions so they might be inaccessible to teams with low budgets. Github on the other hand mihgt be little difficult to work with if the users of the product aren't members of the developer community.
 
 ### What is Issue Tracking?
 
-_This section is under construction_
+Issue tracking refers to a system which can be used to track issues with a product that a company provides. Issue tracking is done to improve the standards of production of a product by continually improving it through the feedback received by the customers.
 
 ### Advantages of TMS:
 
-_This section is under construction_
+Ticketing management systems provide the following benefits:
+
+- Saves time
+- Saves money
+- Solves problems
 
 ### Disadvantages/Shortcomings of TMS:
 
-_This section is under construction_
+Ticketing management systems have the following disadvantages:
+
+- Usually require internet
+- May be inaccessible to customers who have little technical know-how
+- May cause security breaches
 
 ### TMS available on market:
+
+Different TMS available on the market are:
 
 _This section is under construction_
 
 ### TMS(s) recommended by our team
 
-_This section is under construction_
+The three TMS recommended by our team are:
+
+- Github Issues
+- JIRA Service Desk
+- Kayako Help Desk Solution
 
 ### Lifecycles of the best TMS(s)
 
