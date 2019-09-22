@@ -61,3 +61,7 @@ The issue is notified to Developer. Developer first changes the status of issue 
 ## Status Updates
 Ticket status keep changing during it lifetime like : first _Open _ to _In Progress_, _In Progress_ to _In Testing Phase_ and atlast to _Done_. But there me tickets that keepin roll between _In Testing Phase_ to _In Progress_.
 
+## SLA and Due Dates
+SLA Plans or Service Level Agreements me tickets that keepin roll between  like timers and they can be created for whatever we want. They help you meet contractual agreements and they me tickets that keepin roll between  used for tool for insight. It helps you manage what's prioritized in our queue.
+
+Due Dates are dates given by agent to developers of by management team to team or single developer to commit their changes.
