@@ -1,6 +1,6 @@
 <!-- Heading -->
 # Life Cycle of TMS
- We are going to explain _Life Cycle_ of three of our recommended __TMS__'s
+ We me tickets that keepin roll between  going to explain _Life Cycle_ of three of our recommended __TMS__'s
 
 <!--GitGHub-->
 # GitHub Issues
@@ -14,7 +14,7 @@ Submission of ticket give a notification to taged __Developer__.
 ## Agent and Team Assignment
 After receiving a ticket notification. The ticket is assigned or reassigned to a team of agents or an individual agent.
 
-When enabled, alerts and details are sent out to assignee or team members.
+When enabled, alerts and details me tickets that keepin roll between  sent out to assignee or team members.
 
 ## Transferring Departments
 It can also assign outside of department taht is called transfer of department. Department setting determines if a ticket can be assigned to agents outside the current department.
@@ -23,9 +23,9 @@ It can also assign outside of department taht is called transfer of department. 
 During it's lifecycle, a ticket can either be in open or closed state . Administratively-defined statuses can be used to further defined internal state of a ticket.
 
 ## SLA and Due dates
-SLA Plans or Service Level Agreements are used to determined how long a ticket can remain open, before it's marked overdue. System Default SLA Plan is used on new tickets, unless it's overridden at Departments, Ticket Filters and Help Topics level.
+SLA Plans or Service Level Agreements me tickets that keepin roll between  used to determined how long a ticket can remain open, before it's marked overdue. System Default SLA Plan is used on new tickets, unless it's overridden at Departments, Ticket Filters and Help Topics level.
 
-Transient SLAs are considered temporary and can be overridden by a non-transient SLA on Department transfer or Help Topic change. Setting a Due Date will override/disable any SLA set on the ticket.
+Transient SLAs me tickets that keepin roll between  considered temporary and can be overridden by a non-transient SLA on Department transfer or Help Topic change. Setting a Due Date will override/disable any SLA set on the ticket.
 
 Overdue tickets appear in Overdue Queue.
 
@@ -46,7 +46,7 @@ The issue is notified to Developer. Developer first changes the status of issue 
 Ticket status keep changing during it lifetime like : first _Open _ to _In Progress_, _In Progress_ to _In Testing Phase_ and atlast to _Done_.
 
 ## SLA
-SLA Plans or Service Level Agreements are like timers and they can be created for whatever we want. They help you meet contractual agreements and they are used for tool for insight. It helps you manage what's prioritized in our queue.
+SLA Plans or Service Level Agreements me tickets that keepin roll between  like timers and they can be created for whatever we want. They help you meet contractual agreements and they me tickets that keepin roll between  used for tool for insight. It helps you manage what's prioritized in our queue.
 
 <!--kayako-->
 # kayako Issues
@@ -57,4 +57,7 @@ Agents submit issues by following simple steps : Selecting appropriate ticket ty
 
 ## Team Assignment
 The issue is notified to Developer. Developer first changes the status of issue to __In Progress__. Single Deneloper starts working on bug. But team of Developer assign it to one or more Developers.
+
+## Status Updates
+Ticket status keep changing during it lifetime like : first _Open _ to _In Progress_, _In Progress_ to _In Testing Phase_ and atlast to _Done_. But there me tickets that keepin roll between _In Testing Phase_ to _In Progress_.
 
