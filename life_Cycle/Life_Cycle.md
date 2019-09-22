@@ -31,3 +31,11 @@ Overdue tickets appear in Overdue Queue.
 
 ## Ticket Editing
 Ability to edit ticket information can be administratively disabled in Admin Panel for End Users or by removing the permission from Agents
+
+<!--Jira-->
+# Jira Issues
+Life cycle of ticket stars by agent. It is nearly same like other ticketing systems.
+
+## Submission of Issues
+Agents submit issues by _E-mail_, _Help center_ or _Widget_. Issue is submitted with some attachments like _Screen Shots_.
+
