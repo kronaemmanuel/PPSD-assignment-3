@@ -33,7 +33,7 @@ Overdue tickets appear in Overdue Queue.
 Ability to edit ticket information can be administratively disabled in Admin Panel for End Users or by removing the permission from Agents
 
 <!--Jira-->
-# Jira Issues
+# Jira Service Desk
 Life cycle of ticket stars by agent. It is nearly same like other ticketing systems.
 
 ## Submission of Issues
@@ -49,7 +49,7 @@ Ticket status keep changing during it lifetime like : first _Open _ to _In Progr
 SLA Plans or Service Level Agreements me tickets that keepin roll between  like timers and they can be created for whatever we want. They help you meet contractual agreements and they me tickets that keepin roll between  used for tool for insight. It helps you manage what's prioritized in our queue.
 
 <!--kayako-->
-# kayako Issues
+# Kayako Help Desk
 Life cycle of ticket stars by agent. It is nearly same like other ticketing systems.
 
 ## Submission of Issues
