@@ -25,3 +25,13 @@ ITS fullfill different functions,in particular:
 - Assignment of a priority to each issue based on the overall importance of that issue, the customer, date of submission, SLA
 - Containing a detailed descriptions of the problem being experienced, attempted solutions or workarounds, and other relevant information
 - Maintaining of a history of each change
+
+## Workflow
+An example is presented to explain how a common ITS would work:
+1. A developer encounters a error about a problem. Some applications provide built-in messaging system and automatic error reporting from [exception handling](https://en.wikipedia.org/wiki/Exception_handling) blocks.
+1. The technician verifies that the problem is real, and not just perceived. The technician will also ensure that enough information about the problem is obtained from the customer. This information generally includes the environment of the customer, when and how the issue occurs, and all other relevant circumstances.
+1. The technician creates the issue in the system, entering all relevant data, as provided by the customer.
+1. As work is done on that issue, the system is updated with new data by the technician. Any attempt at fixing the problem should be noted in the issue system. Ticket status most likely will be changed from open to pending.
+1. After the issue has been fully addressed, it is marked as resolved in the issue tracking system.
+
+If the problem is not fully resolved, the ticket will be reopened once the technician receives new information from the customer. A [Run Book Automation](https://en.wikipedia.org/wiki/Run_Book_Automation) process that implements best practices for these workflows and increases IT personnel effectiveness is becoming very common.
