@@ -52,3 +52,6 @@ SLA Plans or Service Level Agreements are like timers and they can be created fo
 # kayako Issues
 Life cycle of ticket stars by agent. It is nearly same like other ticketing systems.
 
+## Submission of Issues
+Agents submit issues by following simple steps : Selecting appropriate ticket type, Department of ticket, With details of bug.
+
